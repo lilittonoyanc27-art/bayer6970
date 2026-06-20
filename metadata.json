@@ -1,0 +1,6 @@
+{
+  "name": "Academia de Español: Números y Horas",
+  "description": "Interactive Armenian-Spanish and Russian-Spanish learning game with 200 cards for numbers (1 to 1,000,000) and an interactive physical representation Clock game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
